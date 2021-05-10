@@ -12,6 +12,8 @@
     gcc *.c
     ./a.out
 ```
+## Test case 
+<img src="test.png"/>
 ## Data Structures Used:
     • For the state transition list a doubly linked list is implemented.
     • A call back array, an array of pointers to functions, is used to hold the 6 possible
