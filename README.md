@@ -1,17 +1,17 @@
 # state_space_search
 
 ## Compilation:
-```bash
+'''bash
     gcc -c header.h client.c
     gcc -c header.h impl.c
     gcc client.o impl.o
     ./a.out
-```
+'''
     OR (iff impl.c, client.c, header.h files are there in one folder)
-```bash
+'''bash
     gcc *.c
     ./a.out
-```
+'''
 ## Data Structures Used:<br>
     • For the state transition list a doubly linked list is implemented.<br>
     • A call back array, an array of pointers to functions, is used to hold the 6 possible
