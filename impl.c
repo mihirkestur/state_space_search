@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include "A3_header_PES1UG19CS272.h"
-//Name: Mihir Madhusudan Kestur   SRN: PES1UG19CS272     Section: E     Semester: 4
+#include "header.h"
 
 //initialising values
 void initialise_state(STATE *state_ptr, int vol_A, int vol_B, int vol_C){

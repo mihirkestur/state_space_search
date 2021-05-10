@@ -1,8 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include "A3_header_PES1UG19CS272.h"
+#include "header.h"
 #define DEBUG 0
-//Name: Mihir Madhusudan Kestur   SRN: PES1UG19CS272     Section: E     Semester: 4
 
 int main(){
 	//this has the solution states 

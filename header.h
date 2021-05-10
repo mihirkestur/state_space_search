@@ -1,5 +1,3 @@
-//Name: Mihir Madhusudan Kestur   SRN: PES1UG19CS272     Section: E     Semester: 4
-
 //represents the structure of state of the jugs
 typedef struct state_of_jugs{
     int choice_of_move; //indicates which of the 6 moves is to be performed
